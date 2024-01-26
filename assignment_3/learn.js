@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Learn_Javascrip</title>
-	<link rel="stylesheet" type="text/css" href="style.css">
-	<script src="learn.js"></script>
-
-</head>
-<body>
-<h1>Check Console, Pls.</h1>
-<p> 
 var names = ['usman','john','affan','frasat','Junaid'];
 
 for (var i = 0; i < names.length; i++) 
@@ -23,6 +12,3 @@ for (var i = 0; i < names.length; i++)
 		console.log("Hello " + checkname);
 	}
 }
-</p>
-</body>
-</html>
