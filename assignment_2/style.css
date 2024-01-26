@@ -1,0 +1,38 @@
+
+/*main body styling*/
+body { background-color: white; }
+
+/*header including navbar and logo link styling*/
+
+#header-nav { background-color: #999999; }
+#header-link { text-decoration: none; color: black; }
+
+/*mainpage styling*/
+
+.main-page-heading { text-align: center; font-size: 40px; color: black; margin-top: 30px; margin-bottom: 20px; }
+.main-page-data { text-align: center; font-size: 16px; color: black; margin-top: 10px; padding: 20px; background-color: #999999; margin-right: 25px; margin-left: 25px;}
+.main-page-data-headings {font-size: 30px; margin: 10px;}
+.links-head { text-decoration: none; color: black;}
+
+/*navbar menu list*/
+
+#navbarTogglerDemo01 { text-align: center; }
+.navbar-toggler { color: black; }
+
+/*footer*/
+.footer-styling { background-color: #999999; margin: 10px; width: 100%; height: 5px;}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) { }
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {  }
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) { .navbar-toggler{ display: none; } } }
+
+/*// X-Large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { .navbar-toggler{ display: none; } }
+
+/*// XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) { .navbar-toggler{ display: none; } } }
